@@ -1,3 +1,3 @@
-# projekt zaliczniowy, projektowanie aplikacji www
+# projekt zaliczeniowy, projektowanie aplikacji www
 
-**Natalia Wiergała**
+**Natalia Wierzgała**
