@@ -22,7 +22,7 @@ class Squad(models.Model):
     name = models.CharField(max_length=100, null=True, blank=True)
     truck = models.ForeignKey(Firetruck, on_delete=models.RESTRICT)
 
-class FirefighterInSquad(models.Model):
+class FireFighterInSquad(models.Model):
     squad = models.ForeignKey(Squad, on_delete=models.CASCADE)
     firefighter = models.ForeignKey(Firefighter, on_delete=models.CASCADE)
     role = models.CharField(max_length=50)
