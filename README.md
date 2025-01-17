@@ -1,1 +1,3 @@
-# swps-projekt2
+# projekt zaliczniowy, projektowanie aplikacji www
+
+**Natalia Wiergała**
